@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files
+*.pth
+*.pt
+
+# Uploaded files
+static/uploads/
+
+# Dataset files (optional, ignore if large or private)
+fer2013/
+Submission.csv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
